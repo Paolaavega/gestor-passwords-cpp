@@ -1,3 +1,9 @@
+# Archivo con contraseñas (nunca subir)
+   passwords.dat
+   
+# Ejecutable
+   gestor
+
 # Prerequisites
 *.d
 
